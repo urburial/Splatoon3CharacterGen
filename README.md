@@ -1,2 +1,1 @@
-# splatoon3
-A Splatoon 3 Random Character Generator!
+[README.md](https://github.com/urburial/splatoon3/files/12629334/README.md)
