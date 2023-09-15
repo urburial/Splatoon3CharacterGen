@@ -1,3 +1,9 @@
+# Splatoon 3: Random Character Generator
+> Test the code out: https://create.withcode.uk/python/PDm
+
+
+
+--------------------- 
 𝐒𝐞𝐥𝐞𝐜𝐭 𝐚 𝐬𝐭𝐲𝐥𝐞.
 1 = Inkling Girl 
 2 = Inkling Boy 
